@@ -1,7 +1,6 @@
 {
   "name": "pokemonapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +11,17 @@
   "dependencies": {
     "express": "^4.16.4",
     "pg": "^7.9.0",
-    "sequelize": "^5.2.12"
-  }
+    "sequelize": ">=5.3.0",
+    "sequelize-cli": "^5.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendaMichelle/PokemonAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrendaMichelle/PokemonAPI/issues"
+  },
+  "homepage": "https://github.com/BrendaMichelle/PokemonAPI#readme",
+  "description": ""
 }
