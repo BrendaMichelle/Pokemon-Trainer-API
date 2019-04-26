@@ -1,6 +1,6 @@
 # Pokemon Trainer API
 
-- Basic pokemon trainer API Express app using [Sequelize](http://docs.sequelizejs.com/), [PostgresSQL](https://www.postgresql.org/), [Express.JS](https://expressjs.com/), and [Node.JS](https://nodejs.org/en/).
+- Basic pokemon trainer API Express app that follows a RESTful design using [Sequelize](http://docs.sequelizejs.com/), [PostgresSQL](https://www.postgresql.org/), [Express.JS](https://expressjs.com/), and [Node.JS](https://nodejs.org/en/).
 - There is no front end, so I recommend playing around with this using [Postman](https://www.getpostman.com/).
 
 
